@@ -12,6 +12,6 @@ for(let i = 0; i < 5; i++){
     }else if(utente % 2 === 1 ){
         console.log("il numero che hai inserito e dispari")
     }else{
-        console.log(utente % 2 === 0)
+        console.log(utente % 2 === 1)
     }
 }
